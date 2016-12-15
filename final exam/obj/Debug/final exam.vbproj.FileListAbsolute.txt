@@ -1,0 +1,11 @@
+c:\users\usuario\documents\visual studio 2015\Projects\final exam\final exam\bin\Debug\final exam.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\final exam\final exam\bin\Debug\final exam.exe
+c:\users\usuario\documents\visual studio 2015\Projects\final exam\final exam\bin\Debug\final exam.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\final exam\final exam\bin\Debug\final exam.xml
+c:\users\usuario\documents\visual studio 2015\Projects\final exam\final exam\obj\Debug\final exam.vbprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\final exam\final exam\obj\Debug\final_exam.frmFinalExam.resources
+c:\users\usuario\documents\visual studio 2015\Projects\final exam\final exam\obj\Debug\final_exam.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\final exam\final exam\obj\Debug\final exam.vbproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\final exam\final exam\obj\Debug\final exam.exe
+c:\users\usuario\documents\visual studio 2015\Projects\final exam\final exam\obj\Debug\final exam.xml
+c:\users\usuario\documents\visual studio 2015\Projects\final exam\final exam\obj\Debug\final exam.pdb
